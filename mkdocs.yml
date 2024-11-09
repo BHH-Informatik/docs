@@ -1,0 +1,5 @@
+site_name: BHH Docs
+theme: readthedocs
+repo_url: https://github.com/BHH-Informatik/docs
+edit_uri: blob/main/docs/
+site_description: Dokumentation für Services die von der Fachschaft Informatik der BHH betrieben werden.
