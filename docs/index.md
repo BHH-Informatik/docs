@@ -4,6 +4,6 @@
 
 ## Services
 
-- [Mattermost](/services/mattermost) - Instant-Messaging-Dienst
-- [GitLab](/services/gitlab) - Versionierungssoftware
-- [LimeSurvey](/sercies/limesurvey) - Umfragedienst
+- [Mattermost](services/mattermost) - Instant-Messaging-Dienst
+- [GitLab](services/gitlab) - Versionierungssoftware
+- [LimeSurvey](sercies/limesurvey) - Umfragedienst
