@@ -3,6 +3,8 @@
 [Mattermost](https://mattermost.com/) ist ein Open-Source Instant-Messaging-Dienst.  
 Die Fachschaft Informatik betreibt eine eigene Instanz unter [https://com-sia.de](https://com-sia.de)
 
+Neben der Webseite gibt es auch Apps für [Android](https://play.google.com/store/apps/details?id=com.mattermost.rn), [iOS](https://apps.apple.com/us/app/mattermost/id1257222717), [Windows, macOS und Linux](https://mattermost.com/download/#desktop).
+
 ## Anmeldung bei Mattermost
 
 Die Authentifizierung bei Mattermost wird über die eigene [GitLab](../gitlab) Instanz der Fachschaft Informatik durchgeführt.
@@ -23,8 +25,8 @@ Nach erfolgreicher Anmeldung auf der GitLab Instanz muss Mattermost noch die Erl
 
 Nach erfolgreicher Autorisierung wird der Nutzer automatisch auf die Mattermost Instanz weitergeleitet und kann den Dienst nutzen.
 
-## Einen Raum erstellen
+<!--## Einen Raum erstellen
 
 ## Einem Raum beitreten
 
-## Eine Gruppe erstellen
+## Eine Gruppe erstellen-->

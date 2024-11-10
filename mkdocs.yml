@@ -1,7 +1,15 @@
 # Basic
 site_name: BHH Docs
 theme:
+  language: de
   name: material
+  logo: images/logo.png
+  favicon: images/logo.png
+  features:
+    - content.action.edit
+  icon:
+    edit: material/github 
+
   palette: 
 
     # Palette toggle for light mode
@@ -28,6 +36,16 @@ edit_uri: blob/main/docs/
 # Copyright
 copyright: Copyright &copy; 2024 Fachschaft Informatik der BHH
 
+# Plugins
+plugins:
+  - git-authors:
+      show_email_address: false
+      exclude:
+        - index.md
+  - git-revision-date-localized:
+      format: "de_DE"
+
+# Markdown Extensions
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -45,8 +63,8 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
-  - Fachschaft:
-    - Über uns: fachschaft/about.md
+  #- Fachschaft:
+  #  - Über uns: fachschaft/about.md
     #- Kontakt: fachschaft/kontakt.md
   - Services:
     - Mattermost: services/mattermost.md
