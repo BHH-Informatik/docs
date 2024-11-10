@@ -11,7 +11,16 @@ Die Authentifizierung bei Mattermost wird über die eigene [GitLab](../gitlab) I
 
 Zuerst muss ein Account auf der [GitLab](../gitlab) Instanz angelegt werden. Hierzu reicht es auf den GitLab Knopf auf der Anmeldeseite zu klicken.
 
+!!! warning "Achtung"
+	Es ist nur möglich sich mit einem Account auf der [GitLab](../gitlab) Instanz der Fachschaft Informatik anzumelden.    
+	Andere GitLab Instanzen werden nicht unterstützt.
+
+
 ![Mattermost Anmeldeseite](../images/mattermost-login-field.png)
+
+??? note
+	Der "Du hast kein Konto?" Knopf leitet auf eine Fehlerseite weiter.     
+	Es ist nicht möglich sich direkt auf der Mattermost Instanz zu registrieren.
 
 Nach drücken des Knopfs wird automatisch auf die Anmeldeseite der GitLab Instanz weitergeleitet. Hier kann ein Account angelegt werden oder ein bestehender Account verwendet werden.
 

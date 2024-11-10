@@ -43,7 +43,6 @@ plugins:
       exclude:
         - index.md
   - git-revision-date-localized:
-      format: "de_DE"
 
 # Markdown Extensions
 markdown_extensions:
